@@ -5,7 +5,7 @@ A, privacy first, file system research tool.
 `python prifiwalk`
 
 # Requirements
-GNU/Linux
-Python 3.7
-sleuthkit
-xmlstarlet
+*GNU/Linux
+*Python 3.7
+*sleuthkit
+*xmlstarlet
