@@ -33,3 +33,5 @@ PriFiwalk makes use of the sleuthkit and several tools from GNU/linux to gather 
 ## Links
 
 ## Licensing
+
+This project is licensed under the GNU GPL License - see the [LICENSE](LICENSE) file for details
