@@ -1,7 +1,7 @@
 # xml validator file
 # this validator maintains the intergrity of the xml fiwalk output
 # source: https://github.com/dfxml-working-group/dfxml_schema
-xsdfile = "wildfrag/.xsd/dfxml.xsd"
+xsdfile = "prifiwalk/.xsd/dfxml.xsd"
 
 # this dict contains the commands that are executed on the OS
 commands = {
