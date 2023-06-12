@@ -1,0 +1,30 @@
+
+cff-version: 1.2.0
+title: PriFiWalk
+message: 'A, privacy first, file system research tool.'
+type: software
+authors:
+  - given-names: Guy
+    family-names: Dols
+    email: guydols@gmail.com
+identifiers:
+  - type: doi
+    value: 10.1109/WIFS47025.2019.9034981
+repository-code: 'https://github.com/guydols/PriFiwalk'
+url: 'https://github.com/guydols/PriFiwalk'
+abstract: >-
+  Doing research in the field of digital forensics without a
+  budget can be hard. Using volunteers can help gather
+  research data without costs. For compensation of a
+  volunteer's data PriFiwalk upholds their privacy by
+  removal of any potential private data. This ensures that
+  the data/research meets privacy data regulations like the
+  EU's GDPR and makes volunteer's more likely to join in
+  their data.
+keywords:
+  - sleuthkit
+  - filesystem
+  - storage
+  - research
+  - privacy
+license: GPL-3.0
